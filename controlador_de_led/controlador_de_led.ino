@@ -2,10 +2,10 @@
 #include <FirebaseArduino.h>                                             // firebase library
 #include <ArduinoJson.h>
 
-#define FIREBASE_HOST "controladordeenergia.firebaseio.com"                         // the project name address from firebase id
-#define FIREBASE_AUTH "BEAfcoNH6czTbLqZiWlDp5lBEbJtlIbFE1s2ibi3"                    // the secret key generated from firebase
-#define WIFI_SSID "SSID"                                          // input your home or public wifi name 
-#define WIFI_PASSWORD "elefanta"                                    //password of wifi ssid
+#define FIREBASE_HOST "COLE AQUI O SEU FIREBASE HOST"                         // the project name address from firebase id
+#define FIREBASE_AUTH "COLE AQUI O SEU FIREBASE AUTH"                    // the secret key generated from firebase
+#define WIFI_SSID "COLE AQUI O SSID DO SEU WIFI"                                          // input your home or public wifi name 
+#define WIFI_PASSWORD "COLE AQUI O PASSWORD DO SEU WIFI"                                    //password of wifi ssid
 
 String fireStatus = "";                                                     // led status received from firebase
 int led = D3;                                                                // for external led

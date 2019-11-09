@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "987175228949",
+    "firebase_url": "https://controladordeenergia.firebaseio.com",
+    "project_id": "controladordeenergia",
+    "storage_bucket": "controladordeenergia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987175228949:android:8db9533eb74c9b1244e01c",
+        "android_client_info": {
+          "package_name": "com.example.genreciadordeenergia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987175228949-200u5hqoaq8n2n63oo49hco88jut1vbt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.genreciadordeenergia",
+            "certificate_hash": "675348a086f46296941fb839e3eccc531dc19e0e"
+          }
+        },
+        {
+          "client_id": "987175228949-mho5oj0e0cj2ursqotg3421l0urb3pbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6yrkB2hTO4eUhOMmLB210mKojguOI54M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987175228949-mho5oj0e0cj2ursqotg3421l0urb3pbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
